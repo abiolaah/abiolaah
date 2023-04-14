@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abiolaah
 - 👀 I’m interested in Software Testing and Quality Assurance
-- 🌱 I’m currently learning atomated testing with Cucumber
+- 🌱 I’m currently learning automated testing with Cucumber
 - 💞️ I’m looking to collaborate on software quality assurance tasks
 - 📫 You reach me via email at oluwapelumi.ajuwon@gmail.com
 
