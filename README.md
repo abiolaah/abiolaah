@@ -2,8 +2,10 @@
 - 👀 I’m interested in Software Testing and Quality Assurance as well as Software Development.
 - I have experience working as a product manager
 - 🌱 I’m currently learning automated testing with Cucumber
-- 💞️ I’m looking to collaborate on software quality assurance tasks
+- 💞️ I’m looking to collaborate on software development and  quality assurance tasks
 - 📫 You reach me via email at oluwapelumi.ajuwon@gmail.com
+- Also, check out my website on https://victoriajuwon.netlify.app/
+  
 
 <!---
 abiolaah/abiolaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
