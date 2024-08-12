@@ -66,7 +66,7 @@
 <br/>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=abiolaah&theme=github-dark-blue&border_radius=10&hide_current_streak=true&count_private=true" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-gilt-xi.vercel.app/api?username=abiolaah&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10" alt="Readme Stats" />
+  <img width=390 src="https://github-readme-stats-gilt-xi.vercel.app/api?username=abiolaah&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10&hide=issues" alt="Readme Stats" />
   <br />
   <img width=325 src="https://github-readme-stats-gilt-xi.vercel.app/api/top-langs?username=abiolaah&hide=html&langs_count=10&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages Stats" />
 </div>
