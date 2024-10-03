@@ -46,8 +46,11 @@
   <h3 align="center">⚙️ Frameworks</h3>
     <div align="center">
       <a href="https://skillicons.dev">
+        <h4>WEB</h4>
         <img src="https://skillicons.dev/icons?i=express,react,nextjs,nodejs,tailwind,ts&perline=6" />
-        <img src="https://skillicons.dev/icons?i=gherkin,selenium&perline=6" />
+        <br />
+        <h4>TEST</h4>
+        <img src="https://skillicons.dev/icons?i=gherkin,selenium,jest,playwright&perline=6" />
       </a>
     </div>
 
@@ -55,9 +58,17 @@
   <h3 align="center">🔧 Tools</h3>
     <div align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=apple,linux,windows,git,github&perline=6" />
+        <h4>OS</h4>
+        <img src="https://skillicons.dev/icons?i=apple,linux,windows&perline=6" />
+        <br />
+        <h4>SYSTEM</h4>
+        <img src="https://skillicons.dev/icons?i=git,github&perline=6" />
+        <br />
+        <h4>DATABASE</h4>
+        <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,prisma,sqlite,drizzle" />
+        <br />
+        <h4>OTHERS</h4>
         <img src="https://skillicons.dev/icons?i=bash,maven,postman,netlify,vscode,vite,vercel" />
-        <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,prisma,sqlite" />
       </a>
     </div>
 
