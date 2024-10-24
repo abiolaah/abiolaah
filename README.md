@@ -11,7 +11,7 @@
   
   🔭 I'm currently working on **A food ecommerce site for [VilleDishes](https://github.com/Olawill/ville-dishes)**
   
-  🌱 I'm currently learning **Espresso for android mobile testing and Nextjs and Prisma for development**
+  🌱 I'm currently learning **Appium for mobile testing and Nextjs and Prisma for development**
   
   ⛅️ I'm available to collaborate on **web development and testing projects**
   
