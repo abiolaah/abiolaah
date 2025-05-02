@@ -9,9 +9,9 @@
 
 <div align="center">
   
-  🔭 I'm currently working on **A netflix clone website for web development [Netflix Clone](https://github.com/Olawill/ville-dishes)**
+  🔭 I'm currently working on **A netflix clone website for web development [Netflix Clone](https://github.com/Olawill/ville-dishes)** and ** Testing Restful Booker API with REST Assured **
   
-  🌱 I'm currently learning **Appium for mobile testing and Nextjs and Prisma for development**
+  🌱 I'm working on  ** Web, API and Mobile testing projects, React Native for Mobile Development projects and Nextjs for web development projects**
   
   ⛅️ I'm available to collaborate on **web development and testing projects**
   
