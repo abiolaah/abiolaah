@@ -1,6 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abiolaah.abiolaah" alt="visitors count"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abiolaah.abiolaah" alt="visitors count">
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=400&color=855BF7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;I'm+Oluwapelumi+Victoria" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=2000&pause=400&color=855BF7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B;I%27m+Oluwapelumi+Victoria" alt="Typing SVG" />
+  </a>
 </h1>
 
 <h3 align="center">A tech enthusiast in Canada 🇨🇦 with interest in software development and testing</h3>
