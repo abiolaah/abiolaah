@@ -19,17 +19,17 @@
 </div>
 
 <div align="center">
-  <a href="mailto:victoria.ajuwon0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  alt="gmail address:victoria.ajuwon0@gmail.com" target="_blank"/>
+  <a href="mailto:oluwapelumi.ajuwon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  alt="gmail address:oluwapelumi.ajuwon0@gmail.com" target="_blank"/>
   </a>
 
   <a href="https://www.linkedin.com/in/victoria-ajuwon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin:[oluwapelumi.ajuwon@gmail.com](https://www.linkedin.com/in/victoria-ajuwon/)" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="linkedin:[Oluwapelumi Ajuwon](https://www.linkedin.com/in/victoria-ajuwon/)" target="_blank"/>
   </a>
   
 
   <a href=" https://victoriajuwon.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-855BF7?style=for-the-badge&logo=files&logoColor=purple"  alt="gmail address:victoria.ajuwon0@gmail.com" target="_blank"/>
+    <img src="https://img.shields.io/badge/Portfolio-855BF7?style=for-the-badge&logo=files&logoColor=purple"  alt="gmail address:oluwapelumi.ajuwon@gmail.com" target="_blank"/>
   </a>
 </div>
 
